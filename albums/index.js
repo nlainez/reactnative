@@ -16,7 +16,7 @@ import AlbumList from './src/components/AlbumList';
 // corrected form
 const App = () => (
   <View>
-    <Header headerText={'Norman Joya!'} />
+    <Header headerText={'Albums'} />
     <AlbumList />
   </View>
 );
